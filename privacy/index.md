@@ -60,8 +60,36 @@ We use your information other than photos and videos for the following purposes:
  - To provide personalized content and information to you in relation to AI Artwork, which could include online ads or other forms of marketing (including via email). We do so upon your explicit consent.
  - Upon users’ consent, for marketing purposes in order to find audiences similar to our users. For this processing we share, among others, users’ Use details and device information with our third-party advertising partners.
  - In any other way, as described in this Privacy Policy.
+ 
+We will not process your Personal Data in a way that is incompatible with the purposes for which it has been collected or authorized by you in accordance with this Section 5 or collect any Personal Data that is not required for the mentioned purposes (“purpose limitation principle”).
+
+For any new purpose of processing that is not compatible with any of the purposes mentioned above, we will ask for your separate explicit consent.
+
+To the extent necessary for any of the processing purposes, we take all reasonable steps to ensure that your Personal Data is reliable for its intended use, accurate, complete and current. We also undertake to collect only such amount and types of your Personal Data that are strictly required for the purposes mentioned in this Section 5 (“data minimization principle”).
+
 
 ## 5. SHARING OF COLLECTED INFORMATION
+We do not rent or sell your Personal Data, including photos and videos, to any third parties outside the Company or its Affiliates (as defined below).
+
+**Parties with whom we may share your Personal Data.**
+
+We may share your Personal Data with businesses that are legally part of the same group of companies that we are part of, including our parent company. The parent company acts as our data processors and may perform data processing on our behalf (e.g., providing technical support or conducting analytics). Such parent company is bound by appropriate contractual safeguards in place.
+
+Our parent company are:
+VinBigdata Jsc, based in Hanoi
+
+We also may share your Personal Data, and other collected information with third-party organizations such as contractors and service providers that we use to support our business and who are bound by confidentiality and data protection terms (consistent with this Privacy Policy) to keep your Personal Data confidential use it only based on our instructions (“**Service Providers**”).
+
+Such Service Providers include:
+
+ - Third-party analytics, as specified in this Privacy Policy,
+ - Email delivery services, and
+ - Third-party advertising partners. Upon your consent, we send some of your Personal Data (e.g., your device information) for marketing and promotional purposes to our advertising partners (e.g., Google Admob). By these means, we are able to reach you and people like you on various platforms.
+
+**What happens in the event of a change of control**. If we sell or otherwise transfer part or the whole of the Company or our assets to another organization (e.g., in the course of a transaction like a merger, divestiture, restructuring, reorganization, acquisition, bankruptcy, dissolution, liquidation), your Personal Data and any other collected information may be among the items sold or transferred.
+
+**Responding to legal requests and preventing harm**. We may access, preserve and share your information in response to a legal (like a search warrant, court order or subpoena), government or regulatory request if we have a good faith belief that the law requires us to do so. This may include responding to legal, government or regulatory requests from jurisdictions where we have a good faith belief that the response is required by law in that jurisdiction, affects users in that jurisdiction, and is consistent with internationally recognized standards. We may also access, preserve and share information when we have a good faith belief it is necessary to: (i) detect, prevent and address fraud and other illegal activity; (ii) protect ourselves, you and others, including as part of investigations; and (iii) prevent death or imminent bodily harm. Information we receive about you may be accessed, processed and retained for an extended period of time when it is the subject of a legal request or obligation, governmental investigation, or investigations concerning possible violations of our terms or policies, or otherwise to prevent harm.
+
 
 ## 6. DATA SECURITY
 
