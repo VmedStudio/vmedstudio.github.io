@@ -15,6 +15,6 @@ These Terms are a binding contract between you and us. You are accepting and agr
 
 ## 1. DESCRIPTION OF SERVICES     
 
-AI Artwork is an application based software that uses artificial intelligence algorithms to generate pictures from your descriptive text. The application allows you to (a) type your description onto application; (b) Choose art-style you like; (c) Download generated pictures into your device, any data you submit through application are governed by our [https://vmedstudio.github.io/privacy/](Privacy Policy).
+AI Artwork is an application based software that uses artificial intelligence algorithms to generate pictures from your descriptive text. The application allows you to (a) type your description onto application; (b) Choose art-style you like; (c) Download generated pictures into your device, any data you submit through application are governed by our [Privacy Policy](https://vmedstudio.github.io/privacy/).
 
 From time to time and without prior notice to you, we may change, expand, and improve the application. We may also, at any time, cease to continue operating part or all of the application or selectively disable certain features of the application. Your use of the application does not entitle you to the continued provision or availability of the application. Any modification or elimination of AI Artwork or any particular features will be done at our sole discretion.
