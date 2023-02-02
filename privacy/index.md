@@ -120,15 +120,13 @@ We are not responsible for the practices employed by any websites or services li
 ## 9. HOW TO CONTACT US, VIETNAM REPRESENTATIVE, AND DATA PROTECTION OFFICER
 General contact details. If you have any questions about this Privacy Policy or AI Artwork, please contact us via email at _vmedstudio@gmail.com_.
 
-Appointed Vietnam representative. If you are a resident of Vietnam and you have any questions about this Privacy Policy or AI Artwork, please contact us via email at _vmedstudio@gmail.com_ or at our Vietnam representative mailing address:
+**Appointed Vietnam representative**. If you are a resident of Vietnam and you have any questions about this Privacy Policy or AI Artwork, please contact us via email at _vmedstudio@gmail.com_ or at our Vietnam representative mailing address:
 
-VinBigdata Jsc
-
+**VinBigdata Jsc**
 9th Floor, Century Tower, Times city, 458 Minh Khai, Hai Ba Trung District, Hanoi, Vietnam
-
 Email: _info@vinbigdata.com_
 
-Data protection officer. If you are a resident of Hanoi and you have any questions about this Privacy Policy or AI Artwork, you can contact our data protection officer via email at _vmedstudio@gmail.com_.
+**Data protection officer**. If you are a resident of Hanoi and you have any questions about this Privacy Policy or AI Artwork, you can contact our data protection officer via email at _vmedstudio@gmail.com_.
 
 
 ## 10. CHANGES TO OUR PRIVACY POLICY
