@@ -76,7 +76,7 @@ We do not rent or sell your Personal Data, including photos and videos, to any t
 We may share your Personal Data with businesses that are legally part of the same group of companies that we are part of, including our parent company. The parent company acts as our data processors and may perform data processing on our behalf (e.g., providing technical support or conducting analytics). Such parent company is bound by appropriate contractual safeguards in place.
 
 Our parent company are:
-VinBigdata Jsc, based in Hanoi
+VinBigdata Jsc, based in Hanoi, Vietnam.
 
 We also may share your Personal Data, and other collected information with third-party organizations such as contractors and service providers that we use to support our business and who are bound by confidentiality and data protection terms (consistent with this Privacy Policy) to keep your Personal Data confidential use it only based on our instructions (“**Service Providers**”).
 
@@ -93,7 +93,23 @@ Such Service Providers include:
 
 ## 6. DATA SECURITY
 
+We use reasonable and appropriate information security safeguards to help keep the collected information secure and to secure it from accidental loss and unauthorized access, use, alteration and disclosure. Unfortunately, the transmission of information via the internet is not completely secure. Although we do our best to protect your collected information, we cannot guarantee the security of the collected information transmitted to or through AI Artwork or an absolute guarantee that such information may not be accessed, disclosed, altered, or destroyed. Any transmission of your collected information is at your own risk. We are not responsible for the circumvention of security measures contained in AI Artwork. Please understand that there is no ideal technology or measure to maintain 100% security. Among others, we utilize the following information security measures:
+
+ - Encryption of your Personal Data in transit and in rest.
+ - All collected information is stored on our secure servers behind firewalls.
+ - Organizational and legal measures. For example, our employees and employees of our parent company have different levels of access to your Personal Data and only those in charge of data management get access to your Personal Data and only for limited purposes required for the operation of AI Artwork. We impose strict liability on such employees for any disclosures, unauthorized accesses, alterations, destructions and misuse of your Personal Data.
+Conducting periodical data protection impact assessments in order to ensure that the Company fully adheres to the principles of “privacy by design”, “privacy by default” and others. We also commit to undertake a privacy audit in case of the Company's merger or takeover.
+
+The safety and security of your information also depend on you. Your privacy settings may also be affected by changes to the social media services, through which you may share your photos and videos. We are not responsible for the functionality, privacy, or security measures of any other organization.
+
+**Security breaches**: If we learn of a security systems breach, we may either post a notice, or attempt to notify you by email (if it was provided) and will take reasonable steps to remedy the breach as specified in applicable law and this Privacy Policy. If we learn of a potential Personal Data breach, together with other actions referred to in the Privacy Policy, we will also undertake particular actions to remedy the breach as appropriate under the circumstances, which may include, logging you out from all the devices, resetting a password (sending a temporary password for you to apply) and performing other reasonably necessary activities and actions.
+
+If you want to report a security incident related to AI Artwork, please contact us at _vmedstudio@gmail.com_.
+
+
 ## 7. CHILDREN
+General age limitation. AI Artwork is not intended for or directed at children under 6, and we do not knowingly collect or solicit any information from anyone under the age of 6 or knowingly allow such persons to Use AI Artwork. If you are under 6, do not: (i) Use or provide any information in AI Artwork or through any of its features, or (ii) provide any information about yourself to us, including your name, address, telephone number or email address. In the event that we learn that we have collected or received any Personal Data from a child under 6 without verification of parental consent, we will delete that information as quickly as possible. If you believe we might have any information from or about a child under 6, please contact us (for contact information, please, see How to Contact Us Section).
+
 
 ## 8. OTHER WEBSITES AND SERVICES
 
