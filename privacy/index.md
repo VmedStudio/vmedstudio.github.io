@@ -108,11 +108,29 @@ If you want to report a security incident related to AI Artwork, please contact 
 
 
 ## 7. CHILDREN
+
 General age limitation. AI Artwork is not intended for or directed at children under 6, and we do not knowingly collect or solicit any information from anyone under the age of 6 or knowingly allow such persons to Use AI Artwork. If you are under 6, do not: (i) Use or provide any information in AI Artwork or through any of its features, or (ii) provide any information about yourself to us, including your name, address, telephone number or email address. In the event that we learn that we have collected or received any Personal Data from a child under 6 without verification of parental consent, we will delete that information as quickly as possible. If you believe we might have any information from or about a child under 6, please contact us (for contact information, please, see How to Contact Us Section).
 
 
 ## 8. OTHER WEBSITES AND SERVICES
 
+We are not responsible for the practices employed by any websites or services linked to or from AI Artwork, including the information or content contained within them. Where we have a link to a website or service, linked to or from AI Artwork, we encourage you to read the privacy policy stated on that website or service before providing information on or through it.
+
+
 ## 9. HOW TO CONTACT US, VIETNAM REPRESENTATIVE, AND DATA PROTECTION OFFICER
+General contact details. If you have any questions about this Privacy Policy or AI Artwork, please contact us via email at _vmedstudio@gmail.com_.
+
+Appointed Vietnam representative. If you are a resident of Vietnam and you have any questions about this Privacy Policy or AI Artwork, please contact us via email at _vmedstudio@gmail.com_ or at our Vietnam representative mailing address:
+
+VinBigdata Jsc
+
+9th Floor, Century Tower, Times city, 458 Minh Khai, Hai Ba Trung District, Hanoi, Vietnam
+
+Email: _info@vinbigdata.com_
+
+Data protection officer. If you are a resident of Hanoi and you have any questions about this Privacy Policy or AI Artwork, you can contact our data protection officer via email at _vmedstudio@gmail.com_.
+
 
 ## 10. CHANGES TO OUR PRIVACY POLICY
+
+The date this Privacy Policy was last revised is indicated at the top of the page. The Company may modify or update this Privacy Policy from time to time. Some changes do not require your consent: for example, when we add a new purpose of processing that is compatible with the existing purposes, or the new processing activity that falls under the users’ reasonable expectation. However, if the changes made may pose risk to your rights and freedoms (e.g., by including a new purpose of the processing that is not compatible with the existing purposes of processing, a new legal basis, a new category of personal data to be collected or a new data subject, all of which are not reasonably expected by the users, we will ask for your consent to those changes separately from this Policy. If you did not receive a request for your consent to the changes or refused to give consent, those changes will not apply to you. That fact can negatively affect some of AI Artwork services provided to you in case those services inevitably include consent to the changes.
