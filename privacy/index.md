@@ -30,8 +30,8 @@ We may collect several types of information, including but not limited to Person
 When you Use AI Artwork, we may automatically collect certain data about you. This data is needed for operation of application and, among others, may be used for in-app analytics or marketing purposes. The data we collect automatically includes:
 
  - **Device information**: Information about your mobile device and internet connection, including your IP address, the device’s unique device identifier, operating system, and mobile network information.
- - **Usage details**: Details of your Use of Lensa, including frequency of Use, areas and features of the application that you access and engagement with particular features. This information is used for in-app event analytics and, upon your consent, for marketing purposes.
- - **(If you have provided your consent) IDFA or Android Advertising ID**, whichever is applicable to your device. If you want to disable the collection of IDFA and/or Android Advertising ID by Lensa, please follow the instructions below.
+ - **Usage details**: Details of your Use of AI Artwork, including frequency of Use, areas and features of the application that you access and engagement with particular features. This information is used for in-app event analytics and, upon your consent, for marketing purposes.
+ - **(If you have provided your consent) IDFA or Android Advertising ID**, whichever is applicable to your device. If you want to disable the collection of IDFA and/or Android Advertising ID by AI Artwork, please follow the instructions below.
 
     **If you use an iOS device:**
     1. Go to Privacy settings to see a list of apps that request to track your activity. On iPhone or iPad, go to Settings > Privacy > Tracking.
