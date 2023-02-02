@@ -122,7 +122,7 @@ General contact details. If you have any questions about this Privacy Policy or 
 
 **Appointed Vietnam representative**. If you are a resident of Vietnam and you have any questions about this Privacy Policy or AI Artwork, please contact us via email at _vmedstudio@gmail.com_ or at our Vietnam representative mailing address:
 
-**VinBigdata Jsc**
+**VinBigdata Jsc**.
 9th Floor, Century Tower, Times city, 458 Minh Khai, Hai Ba Trung District, Hanoi, Vietnam
 Email: _info@vinbigdata.com_
 
