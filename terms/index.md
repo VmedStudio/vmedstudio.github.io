@@ -83,6 +83,7 @@ We reserve the right to, in our discretion and at any time, suspend or discontin
 It is our policy to respect the legitimate rights of copyright owners, and we will respond to notices of alleged copyright infringement that comply with applicable law. If you believe that any text, graphics, photos, audio, music, videos or other materials or works, including any User Content, uploaded, downloaded or appearing on AI Artwork have been copied in a way that constitutes copyright infringement, you may request removal of that User Content (or access to it) from AI Artwork by submitting a written notification to our Copyright Agent designated below.
 
 Our designated Copyright Agent to receive the notices is:
+
 Copyright Agent: Ha Q. Ng, PhD.
 
 Address: 9th Floor, Century Tower, Times city, 458 Minh Khai, Hai Ba Trung District, Hanoi, Vietnam.
