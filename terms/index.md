@@ -26,16 +26,75 @@ General age limitation. You must be at least 6 years of age to Use AI Artwork. I
 
 You represent and warrant that you have the full power and authority to enter into this agreement and that in doing so you will not violate any other agreement to which you are a party and that you have not been previously suspended or removed from Using AI Artwork. You further agree to Use AI Artwork in compliance with all applicable laws and to provide only true and accurate information to us. AI Artwork is not available to any Users previously prohibited from Using it.
 
+
 ## 3. PRIVACY
 
 Please refer to our [Privacy Policy](https://vmedstudio.github.io/privacy/) for information about how we collect, process and transfer information about you when you Use AI Artwork. Transfer and storage of information about you, whilst you Use AI Artwork, is governed by our Privacy Policy. You acknowledge and agree that your Use of AI Artwork is subject to our Privacy Policy.
 
+
 ## 4. USER CONTENT
+
+AI Artwork may allow you to submit descriptive text, create AI-generated pictures (“**User Content**”). We do not claim ownership over your User Content, including AI-generated content you create Using AI Artwork (for the purposes of these Terms, the term “User Content” explicitly includes any AI-generated content you create by Using the application).
+
+We want you to enjoy the functionality of AI Artwork seamlessly. Therefore, we would require a permit (called a license and referenced as a “Company License” explained further) to use your User Content uploaded to, downloaded from, and stored within the application. We would like to highlight that the Company license is limited to the purpose of our usage of your User Content and the parties we might share this User Content with. We do not sell any of your User Content with any third parties and use it for ensuring the appropriate functionality of the application only. 
+
+Therefore, solely for the purposes of operating or improving AI Artwork, you grant us a time-limited, revocable, non-exclusive, royalty-free, worldwide, fully-paid, transferable, sub-licensable license to use, reproduce, modify, distribute, create derivative works of your User Content, without any additional compensation to you and always subject to your additional explicit consent for such use where required by applicable law and as stated in our [Privacy Policy](https://vmedstudio.github.io/privacy/). The Company License is for the limited purpose of operating AI Artwork and improving our existing and new products, including but not limited to training AI Artwork’s AI within and solely for your Use of Magic Avatars feature of the application or if otherwise implied by the Using of AI Artwork and its services, unless you have provided us your additional explicit consent for the different purpose where required by applicable law. The Company License is time-limited in the sense that it automatically terminates when you delete the User Content from AI Artwork’s library or by terminating your account with deletion of data associated with it.
+
+You represent and warrant that: (i) you own the User Content edited and adjusted by you on or through AI Artwork or otherwise have the right to grant the rights and licenses set forth in these Terms; (ii) you agree to pay for all royalties, fees, and any other monies owed by reason of the User Content you intend to edit and adjust on or through AI Artwork and approve to us that any usage of third-party User Content is otherwise cleared by you with the respective rightholder; (iii) in case the User Content depicts third parties, you have received all the necessary consents from them to upload it to AI Artwork; and (iv) you have the legal right and capacity to enter into these Terms in your jurisdiction.
+
+You must not upload, edit, create, store or share any User Content that violates these Terms or to which you do not have all the rights necessary to grant us the Company License described above. You, furthermore, agree to indemnify, defend and hold AI Artwork harmless for any unauthorized use of third-party User Content you might commit (both intentionally or unintentionally) in accordance with Section 11 “Indemnification” of these Terms.
+
+You acknowledge that AI Artwork is supported by advertising revenue and may display advertisements and promotions, and you hereby agree that we may place such advertisements and promotions on AI Artwork or in conjunction with your User Content. The manner, mode and extent of such advertisements and promotions are subject to change without specific notice to you. We will not be liable to you for any modification, suspension or discontinuation of AI Artwork, or the loss of any User Content, if this loss occurs outside of our control (e.g., due to a security breach). However, we hereby commit to informing you of such security incident in accordance with our Privacy Policy (and its Section 6 “Data Security”).
+
+
+
 ## 5. PROHIBITED CONDUCT AND CONTENT
+**General rules**. You will not violate any applicable contract, intellectual property law, any other applicable law or other third-party rights (including the Company rights) or commit a tort, and you are solely responsible for your conduct while Using AI Artwork.
+
+You represent, warrant and agree that you will not Use AI Artwork by uploading the User Content or otherwise (all of the following conduct includes any attempts to perform any of the following):
+  
+ - To engage in any harmful, fraudulent, deceptive, harassing, threatening, intimidating, predatory, defamatory, obscene, stalking or otherwise objectionable conduct.
+ - For sale or to the benefit of any third party or in any manner not permitted by these Terms.
+ - In any manner that could interfere with, disrupt, negatively affect or inhibit other Users from fully enjoying AI Artwork or that could damage, disable, overburden or impair the functioning of AI Artwork in any manner.
+ - To decipher, decompile, disassemble or reverse engineer any aspect of AI Artwork (such as the source code or non-literal aspects (such as the underlying structure, sequence, organization, file formats, non-public APIs, ideas or algorithms), do anything that might discover the source code, bypass or circumvent measures employed to prevent or limit your access to any part of AI Artwork.
+ - To circumvent any content-filtering techniques we employ or to access any feature or area of AI Artwork that you are not authorized to access.
+ - To develop or to use any third-party applications that interact with AI Artwork without our prior written consent, including any scripts designed to scrape or extract data from AI Artwork.
+ - To display, mirror or frame AI Artwork, or any individual element within AI Artwork, the Company’s name, any Company trademark, logo or other proprietary information without our express written consent.
+ - To use any meta tags or other hidden text or metadata utilizing the Company’s trademark, logo URL, product or services name without our express written consent.
+ - To gain unauthorized access to, interfere with, damage, or disrupt any server, computer or database connected to AI Artwork.
+ - To copy, modify, host, stream, sublicense, or resell AI Artwork.
+ - For any illegal or unauthorized purpose, or engage in, encourage or promote any activity that violates these Terms.
+ - To place an advertisement of any products or services in AI Artwork except with our prior written approval.
+ - To violate any applicable law or regulation.
+ - To encourage, assist or enable any other party to do any of the foregoing.
+ 
+You may only share the User Content that is non-confidential and you have all necessary rights to disclose. You may not upload, edit, create, store or share any User Content that:
+
+ - Is unlawful, libelous, defamatory, obscene, pornographic, indecent, lewd, suggestive, harassing, threatening, invasive of privacy or publicity rights, abusive, inflammatory or fraudulent.
+ - Would constitute, encourage or provide instructions for a criminal offense, violate the rights of any person or otherwise create liability or violate any local, state, national or international law.
+ - Sexualizes other people. including minors, or that is intended to facilitate inappropriate interactions with minors, other users or the public.
+ - May infringe, misappropriate or violate any patent, trademark, trade secret, copyright or other intellectual or proprietary right of any person.
+ - Contains any private or personal information of any person without such person’s consent.
+ - Contains any viruses, corrupted data or other harmful, disruptive or destructive files or content.
+ - Is, in our sole judgment, objectionable or that restricts or inhibits any other person from Using or enjoying AI Artwork, or that may expose us or others to any harm or liability of any type.
+
+We have the right to monitor your Use of AI Artwork to ensure compliance with these Terms, and to comply with applicable law or other legal requirements. We have the right to investigate violations of these Terms or conduct that affects AI Artwork. We may also consult and cooperate with law enforcement authorities to prosecute Users who violate the applicable law.
+
+We reserve the right to, in our discretion and at any time, suspend or discontinue AI Artwork, introduce new features or impose limitations on certain features, or restrict access to AI Artwork.
+ 
+ 
 ## 6. COPYRIGHT INFRINGEMENT
+
+
 ## 7. FEEDBACK
+
+
 ## 8. INDEMNIFICATION
+
+
 ## 9. LIMITATION OF LIABILITY
+
+
 ## 10. RELEASE
 ## 11. DISPUTE RESOLUTION; BINDING ARBITRATION
 ## 12. GOVERNING LAW AND VENUE
