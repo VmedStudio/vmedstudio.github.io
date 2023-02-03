@@ -84,8 +84,11 @@ It is our policy to respect the legitimate rights of copyright owners, and we wi
 
 Our designated Copyright Agent to receive the notices is:
 Copyright Agent: Ha Q. Ng, PhD.
+
 Address: 9th Floor, Century Tower, Times city, 458 Minh Khai, Hai Ba Trung District, Hanoi, Vietnam.
+
 Email: v.hanq3@vinbigdata.org
+
 Telephone Number: +84(353)886-088
 
 If we become aware that any of our Users have repeatedly infringed copyrights, we will take reasonable steps to disable access to AI Artwork for such Users.
@@ -120,7 +123,7 @@ We reserve the right, without notice and in our sole discretion, to terminate yo
 
 
 ## 13. HOW TO CONTACT US
-If you have any questions, complaints or claims with respect to these Terms or AI Artwork, please contact us via email at vmedstudio@gmail.com or our mailing address:
+If you have any questions, complaints or claims with respect to these Terms or AI Artwork, please contact us via email at _vmedstudio@gmail.com_ or our mailing address:
 
 VinBigdata, Jsc.
 
